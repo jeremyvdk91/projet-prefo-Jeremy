@@ -1,0 +1,25 @@
+body {
+  background-color: #ffd7ba;
+}
+
+nav a {
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  color: white;
+
+  text-decoration: none;
+}
