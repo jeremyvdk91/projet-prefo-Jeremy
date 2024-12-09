@@ -1,11 +1,16 @@
 body {
-  background-color: #ffd7ba;
+  background-color: #918e8d;
 }
 
 nav a {
   text-decoration: none;
   margin-left: 20px;
   margin-right: 20px;
+  width: 500px;
+  height: 100px;
+  line-height: 100px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 ul {
   list-style-type: none;
@@ -19,7 +24,7 @@ li {
 }
 
 li a {
-  color: white;
+  color: black;
 
   text-decoration: none;
 }

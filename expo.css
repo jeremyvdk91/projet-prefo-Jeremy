@@ -4,6 +4,6 @@ main h3 {
 }
 
 main p {
-  text-align: justify;
   margin-bottom: 20px;
+  text-align: right;
 }
