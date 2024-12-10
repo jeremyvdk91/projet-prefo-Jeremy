@@ -1,0 +1,17 @@
+h1 {
+  font-size: 50px;
+}
+main img {
+  border-radius: 50px;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+}
+
+.picture {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
