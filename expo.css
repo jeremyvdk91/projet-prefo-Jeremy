@@ -1,3 +1,6 @@
+img {
+  float: left;
+ }
 main h3 {
   text-align: center;
   margin: 30px 0;
@@ -7,3 +10,8 @@ main p {
   margin-bottom: 20px;
   text-align: right;
 }
+
+article  {
+  text-align: justify;
+  padding: 20px;
+ }
