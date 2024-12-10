@@ -15,3 +15,15 @@ main img {
   justify-content: center;
   flex-direction: column;
 }
+
+.grid-container {
+  display: grid;
+  padding: 10px;
+}
+
+.grid-item {
+ 
+  padding: 20px;
+  font-size: 100px;
+  text-align: center;
+}
