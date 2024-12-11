@@ -1,5 +1,10 @@
+body {
+  background-color: rgb(178, 236, 250);
+}
+
 nav {
-  background-color: black;
+  background-image: url(595.jpg);
+  background-position: center;
   display: flex;
 }
 
@@ -27,7 +32,8 @@ li a {
 }
 
 footer {
-  background-color: black;
+  background-image: url(595.jpg);
+  background-position: center;
   margin-top: auto;
   position: relative;
   bottom: auto;
