@@ -1,5 +1,7 @@
 h1 {
   font-size: 50px;
+  font-family: gothic;
+  text-align: center;
 }
 main img {
   border-radius: 50px;
@@ -22,7 +24,6 @@ main img {
 }
 
 .grid-item {
- 
   padding: 20px;
   font-size: 100px;
   text-align: center;
