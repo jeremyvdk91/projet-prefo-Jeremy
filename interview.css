@@ -1,9 +1,11 @@
 h1 {
   font-size: 50px;
   text-align: center;
+  color: #00356b;
 }
 h2 {
   text-align: center;
+  color: #00356b;
 }
 
 h3 {
@@ -17,17 +19,16 @@ h4 {
 
 p {
   text-align: center;
-  font-family: cursive;
-  font-size: 18px;
-  margin: 50px;
+  font-size: 20px;
+  margin: 25px;
 }
 
 details {
   width: 80%;
   margin: 0 auto;
-  background: #282828;
+  background: #00356b;
   margin-bottom: 0.5rem;
-  box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4);
+  color: #00abf0;
   border-radius: 5px;
   overflow: hidden;
 }
@@ -35,14 +36,13 @@ details {
 summary {
   padding: 1rem;
   display: block;
-  background: #333;
-  background-image: url(interview2.jpg);
+  background-color: #001122;
+  color: #fff;
   background-position: center;
   padding-left: 2.2rem;
   position: relative;
   cursor: pointer;
   user-select: none;
-
   text-align: center;
   font-size: 40px;
 }

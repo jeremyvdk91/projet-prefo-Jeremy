@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(178, 236, 250);
+  background-color: #00abf0;
 }
 
 nav {
-  background-image: url(595.jpg);
+  background-color: #001122;
   background-position: center;
   display: flex;
 }
@@ -32,8 +32,7 @@ li a {
 }
 
 footer {
-  background-image: url(595.jpg);
-  background-position: center;
+  background-color: #001122;
   margin-top: auto;
   position: relative;
   bottom: auto;
