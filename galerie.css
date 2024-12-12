@@ -1,21 +1,12 @@
-h1 {
-  font-size: 50px;
-  font-family: gothic;
-  text-align: center;
+main {
+  background-color: #00356b;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 main img {
   border-radius: 50px;
-}
-
-.image {
-  display: flex;
-  justify-content: center;
-}
-
-.picture {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
 }
 
 .grid-container {
